@@ -1,5 +1,7 @@
 # Workit Landing Page 🚀
 
+![Workit Landing Page Screenshot](./preview.jpg)
+
 Hello everyone! 👋 After a long break, I'm back to learning frontend development at full throttle, filled with positive energy! 🌟 I decided to use this motivation to refresh what I've learned so far by tackling a project from Frontend Mentor.
 
 ## Project Description 📝
