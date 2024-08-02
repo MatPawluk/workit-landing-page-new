@@ -8,6 +8,10 @@ Hello everyone! 👋 After a long break, I'm back to learning frontend developme
 
 This project is an implementation of the **Workit Landing Page**, a challenge from Frontend Mentor. This challenge allowed me to assess where my skills currently stand and how much knowledge I retained during my break. It's a great opportunity for me to practice and refine my skills, especially in the area of breakpoints and responsive design.
 
+# Live Demo 🌍
+
+You can view the live demo of the project here: [Workit Landing Page](https://matpawluk.github.io/workit-landing-page-new/)
+
 ## Technologies and Tools 🛠️
 
 - **HTML5**
